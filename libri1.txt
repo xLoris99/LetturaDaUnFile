@@ -1,0 +1,2 @@
+111|lorenzo|elementi di programmazione|10.3
+222|giovanni|eellll|40.67
